@@ -1,6 +1,6 @@
 # 🚀 Landing Page
 
-Move element: a by (296px, -226px)
+Move element: a by (3px, -13px)
 
 ## 🌐 Live Demo
 
