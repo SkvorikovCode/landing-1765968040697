@@ -1,6 +1,6 @@
 # 🚀 Landing Page
 
-Edit text: "Меню е..."
+Move element: a by (-504px, 1px)
 
 ## 🌐 Live Demo
 
