@@ -1,6 +1,6 @@
 # 🚀 Landing Page
 
-Edit text: "Меню епта..."
+Undo
 
 ## 🌐 Live Demo
 
